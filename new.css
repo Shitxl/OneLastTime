@@ -12,8 +12,8 @@ body {
 }
 
 .postcard {
-  width: 1400px;
-  height: 910px;
+  width: 900px;
+  height: 710px;
   background: rgba(255, 255, 255, 0.101);
 
   margin: 0 auto;
@@ -32,8 +32,8 @@ body {
 }
 
 .postcard1 {
-  width: 1500px;
-  height: 1000px;
+  width: 900px;
+  height: 700px;
   background: #f594b862;
   position: absolute;
   left: 10%;
